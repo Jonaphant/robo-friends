@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: KGOnlyHope;
+    src: url(./KGOnlyHope.ttf);
+}
+
+h1 {
+    font-family: KGOnlyHope, Arial, Helvetica, sans-serif;
+    color: white;
+}
