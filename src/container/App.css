@@ -1,10 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
 
-@font-face {
-    font-family: KGOnlyHope;
-    src: url(./KGOnlyHope.ttf);
-}
 
 h1 {
-    font-family: KGOnlyHope, Arial, Helvetica, sans-serif;
+    font-family: 'Shadows Into Light', cursive;
     color: white;
 }
