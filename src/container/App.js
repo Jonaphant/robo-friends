@@ -15,6 +15,7 @@ class App extends Component {
         };
     };
 
+    //Does something when search values are changed
     onSearchChange = (event) => {
         this.setState({searchField : event.target.value});
     };
