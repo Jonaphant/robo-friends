@@ -26,6 +26,7 @@ const mapDispatchToProps = (dispatch) => {
 
 class App extends Component {
 
+    //props is from connect function
     componentDidMount() {
         this.props.onRequestRobots();
     };
